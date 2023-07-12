@@ -380,20 +380,20 @@ const schemaInput = {
   schemaAddressCountry: changedInfo.businessGeoRegionCode,
 
   schemaImage1: "/images/nail-extension-1.jpg",
-  schemaImage2: "/images/nail-extension-2.jpg",
+  schemaImage2: "/images/nail-extension-2-1.jpg",
   schemaImage3: "/images/nail-extension-3.jpg",
-  schemaImage4: "/images/nail-extension-4.jpg",
+  schemaImage4: "/images/nail-extension-4-1.jpg",
   schemaImage5: "/images/nail-extension-5.jpg",
   schemaImage6: "/images/gel-nails-shellac-nails-1.jpg",
   schemaImage7: "/images/gel-nails-shellac-nails-2.jpg",
   schemaImage8: "/images/gel-nails-shellac-nails-3.jpg",
   schemaImage9: "/images/gel-nails-shellac-nails-4.jpg",
   schemaImage10: "/images/gel-nails-shellac-nails-5.jpg",
-  schemaImage11: "/images/nail-design-1.jpg",
-  schemaImage12: "/images/nail-design-2.jpg",
-  schemaImage13: "/images/nail-design-3.jpg",
-  schemaImage14: "/images/nail-design-4.jpg",
-  schemaImage15: "/images/nail-design-5.jpg",
+  schemaImage11: "/images/nail-design-1-1.jpg",
+  schemaImage12: "/images/nail-design-2-1.jpg",
+  schemaImage13: "/images/nail-design-3-1.jpg",
+  schemaImage14: "/images/nail-design-4-1.jpg",
+  schemaImage15: "/images/nail-design-5-1.jpg",
   schemaImage16: "/images/pedicure-1.jpg",
   schemaImage17: "/images/pedicure-2.jpg",
   schemaImage18: "/images/pedicure-3.jpg",
@@ -736,15 +736,15 @@ const images = {
       //Ảnh ở Homepage khi vuốt xuống
   section5Image1: "/images/nail-extension-1.jpg",
 
-  section6Image1: "/images/nail-extension-2.jpg",
+  section6Image1: "/images/nail-extension-2-1.jpg",
 
   section7Image1: "/images/nail-extension-3.jpg",
-  section7Image2: "/images/nail-extension-4.jpg",
+  section7Image2: "/images/nail-extension-4-1.jpg",
 
-  LocationImage1: "/images/nail-extension-11.jpg",
+  LocationImage1: "/images/nail-extension-11-1.jpg",
 
   serviceList1Image1: "/images/nail-extension-5.jpg",
-  serviceList1Image2: "/images/nail-extension-6.jpg",
+  serviceList1Image2: "/images/nail-extension-6-1.jpg",
   serviceList1Image3: "/images/nail-extension-7.jpg",
   serviceList1Image4: "/images/nail-extension-8.jpg",
   serviceList1Image5: "/images/nail-extension-9.jpg",
@@ -767,11 +767,11 @@ const images = {
   serviceList4Image4: "/images/hair-wash-4.jpg",
   serviceList4Image5: "/images/hair-wash-5.jpg",
 
-  serviceList5Image1: "/images/nail-design-1.jpg",
-  serviceList5Image2: "/images/nail-design-2.jpg",
-  serviceList5Image3: "/images/nail-design-3.jpg",
-  serviceList5Image4: "/images/nail-design-4.jpg",
-  serviceList5Image5: "/images/nail-design-5.jpg",
+  serviceList5Image1: "/images/nail-design-1-1.jpg",
+  serviceList5Image2: "/images/nail-design-2-1.jpg",
+  serviceList5Image3: "/images/nail-design-3-1.jpg",
+  serviceList5Image4: "/images/nail-design-4-1.jpg",
+  serviceList5Image5: "/images/nail-design-5-1.jpg",
 
   serviceList6Image1: "/images/waxing-1.jpg",
   serviceList6Image2: "/images/waxing-2.jpg",
@@ -801,7 +801,7 @@ const images = {
 
   desktopAboutUsDongVienImage1: "/images/nail-extension-15.jpg",
   desktopAboutUsDongVienImage2: "/images/nail-extension-16.jpg",
-  desktopAboutUsDongVienImage3: "/images/nail-extension-17.jpg",
+  desktopAboutUsDongVienImage3: "/images/nail-extension-17-1.jpg",
 
     //Ảnh cho phần động viên
   section1Image1: "/images/nail-extension-18.jpg",
@@ -851,7 +851,7 @@ const images = {
     service2: "Acrylic Infill with normal nail polish",
     service2Time: "35 mins",
     service2Price: "23",
-    service2Description: "Nail refills are recommended around 3 to 4 weeks from the date of the initial application. A quick nail refill is the best way to make the most of your nail extensions.",
+    service2Description: "Nail refills are recommended around 2 to 3 weeks from the date of the initial application. A quick nail refill is the best way to make the most of your nail extensions.",
 
     service3: "Acrylic Full Set with Shellac",
     service3Time: "1 hr",
@@ -861,7 +861,7 @@ const images = {
     service4: "Acrylic Infill with Shellac",
     service4Time: "45 mins",
     service4Price: "33",
-    service4Description: "Nail refills are recommended around 3 to 4 weeks from the date of the initial application. A quick nail refill is the best way to make the most of your nail extensions.",
+    service4Description: "Nail refills are recommended around 2 to 3 weeks from the date of the initial application. A quick nail refill is the best way to make the most of your nail extensions.",
 
     service5: "Gel Powder Full Set with normal nail polish",
     service5Time: "45 mins",
@@ -871,7 +871,7 @@ const images = {
     service6: "Gel Powder Infill with normal nail polish",
     service6Time: "45 mins",
     service6Price: "32",
-    service6Description: "Nail refills are recommended around 3 to 4 weeks from the date of the initial application. A quick nail refill is the best way to make the most of your nail extensions.",
+    service6Description: "Nail refills are recommended around 2 to 3 weeks from the date of the initial application. A quick nail refill is the best way to make the most of your nail extensions.",
   
     service7: "Full Set Pink & White",
     service7Time: "45 mins",
@@ -891,7 +891,7 @@ const images = {
     service10: "Infill Ombre",
     service10Time: "45 mins",
     service10Price: "45",
-    service10Description: "Nail refills are recommended around 3 to 4 weeks from the date of the initial application. A quick nail refill is the best way to make the most of your nail extensions.",
+    service10Description: "Nail refills are recommended around 2 to 3 weeks from the date of the initial application. A quick nail refill is the best way to make the most of your nail extensions.",
   
     service11: "Full Set Colour Powder",
     service11Time: "45 mins",
@@ -953,7 +953,7 @@ const images = {
     service22Price: "35",
     service22Description: "Take off then Manicure and then Shellac",
 
-    service23: "Dipping Powder SNS",
+    service23: "Dipping Powder SNS with tip",
     service23Time: "45 mins",
     service23Price: "40",
     service23Description: "SNS Dipping Powder creates a stronger polish finish which can help strengthen brittle or weak nails.",
@@ -1112,7 +1112,6 @@ const images = {
     service54Price: "15",
     service54Description: "",
 
-
     }; 
   
   const serviceList2 = {
@@ -1129,12 +1128,12 @@ const images = {
     service3: "Manicure Shellac",
     service3Time: "40 mins",
     service3Price: "30",
-    service3Description: "Manicures are a difficult art to master. No matter how great they look when finished, they seem to always chip within days, if not in a matter of hours. Enter the Gel nail manicure - a groundbreaking technique that uses gel polishes that get 'cured' under UV lights. The result? Shiny, strong nails for weeks and no drying time!",
+    service3Description: "Manicures are a difficult art to master. No matter how great they look when finished, they seem to always chip within days, if not in a matter of hours. Enter the Gel nail manicure - a groundbreaking technique that uses gel polishes that get 'cured' under UV lights. The result Shiny, last up to 14 days strong",
 
     service4: "Pedicure Shellac",
     service4Time: "40 mins",
     service4Price: "40",
-    service4Description: "Please bring Flip Flops/Sandals. Highly recommended with Gel Colour. Last longer and less likely to chip! Fries instantly so you don't have to worry about smudging it.",
+    service4Description: "Please bring Flip Flops/Sandals. Highly recommended with Gel Colour. Last longer and less likely to chip! Fries instantly so you don't have to worry about smudging it. (We free shellac removal when you free apply)",
   
     service5: "Gel Polish Manicure & Pedicure",
     service5Time: "1 hr 25 mins",
@@ -1181,6 +1180,10 @@ const images = {
     service13Price: "45",
     service13Description: "",
 
+    service14: "BIAB or builder gel (extra)",
+    service14Time: "",
+    service14Price: "5",
+    service14Description: "Biab more stronger than shellac but less than arcylic it in between help your nails last long and not chipping until you come back to reapply",
 
 
   };
