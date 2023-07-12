@@ -343,9 +343,9 @@ const processedInfo = {
   offerTitle: "Our Offers and Benefits",
   offerDescription: "Free all cold drink and hot drink, chocolate, sweet or snack",
   offerHeading: "Our offers:",
-  offerContent1: "✅10% for Student. ",
-  offerContent2: "✅Refer a friend to get 5 pounds voucher. ",
-  offerContent3: "✅Group from 3 people get 10% with the main treatment",
+  offerContent1: "",
+  offerContent2: " ",
+  offerContent3: "✅From September 2023, on every Tuesday, group from 3 people get 10% with 1 main treatment or get 15% with 2 main treatments",
 }
 
 const headerInput = {
@@ -383,7 +383,7 @@ const schemaInput = {
   schemaImage2: "/images/nail-extension-2-1.jpg",
   schemaImage3: "/images/nail-extension-3.jpg",
   schemaImage4: "/images/nail-extension-4-1.jpg",
-  schemaImage5: "/images/nail-extension-5.jpg",
+  schemaImage5: "/images/nail-extension-5-1.jpg",
   schemaImage6: "/images/gel-nails-shellac-nails-1.jpg",
   schemaImage7: "/images/gel-nails-shellac-nails-2.jpg",
   schemaImage8: "/images/gel-nails-shellac-nails-3.jpg",
@@ -743,11 +743,11 @@ const images = {
 
   LocationImage1: "/images/nail-extension-11-1.jpg",
 
-  serviceList1Image1: "/images/nail-extension-5.jpg",
+  serviceList1Image1: "/images/nail-extension-5-1.jpg",
   serviceList1Image2: "/images/nail-extension-6-1.jpg",
-  serviceList1Image3: "/images/nail-extension-7.jpg",
+  serviceList1Image3: "/images/nail-extension-7-1.jpg",
   serviceList1Image4: "/images/nail-extension-8.jpg",
-  serviceList1Image5: "/images/nail-extension-9.jpg",
+  serviceList1Image5: "/images/nail-extension-9-1.jpg",
 
   serviceList2Image1: "/images/gel-nails-shellac-nails-1.jpg",
   serviceList2Image2: "/images/gel-nails-shellac-nails-2.jpg",
@@ -1130,10 +1130,10 @@ const images = {
     service3Price: "30",
     service3Description: "Manicures are a difficult art to master. No matter how great they look when finished, they seem to always chip within days, if not in a matter of hours. Enter the Gel nail manicure - a groundbreaking technique that uses gel polishes that get 'cured' under UV lights. The result Shiny, last up to 14 days strong",
 
-    service4: "Pedicure Shellac",
+    service4: "Pedicure Shellac ",
     service4Time: "40 mins",
     service4Price: "40",
-    service4Description: "Please bring Flip Flops/Sandals. Highly recommended with Gel Colour. Last longer and less likely to chip! Fries instantly so you don't have to worry about smudging it. (We free shellac removal when you free apply)",
+    service4Description: "(We free shellac removal when you re-apply) Please bring Flip Flops/Sandals. Highly recommended with Gel Colour. Last longer and less likely to chip! Fries instantly so you don't have to worry about smudging it. ",
   
     service5: "Gel Polish Manicure & Pedicure",
     service5Time: "1 hr 25 mins",
@@ -1183,7 +1183,7 @@ const images = {
     service14: "BIAB or builder gel (extra)",
     service14Time: "",
     service14Price: "5",
-    service14Description: "Biab more stronger than shellac but less than arcylic it in between help your nails last long and not chipping until you come back to reapply",
+    service14Description: "biab or builder gel extra £5 on the top. Biab more stronger than shellac but less than arcylic it in between help your nails last long and not chipping until you come back to reapply",
 
 
   };
