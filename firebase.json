@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "princess-nails-exeter",
+    "site": "paintbox2nails",
     "public": "out",
     "ignore": [
       "firebase.json",

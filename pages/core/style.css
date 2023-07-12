@@ -57,6 +57,7 @@
   /*Chống copy nội dung trang, tải ảnh....
   */
     
+  /*
   html{
     -youbkit-touch-callout: none; 
     -youbkit-user-select: none;   
@@ -252,8 +253,10 @@
 
   /*Các list dịch vụ mà ko hiển thị
   */
-  .offers,
-  .customer-review{
+  .services-list-4,
+  .services-list-6,
+  .services-list-7,
+  .offers{
     display: none;
   }
   /*Các list dịch vụ hiển thị cần phải cách nhau 1 khoảng
