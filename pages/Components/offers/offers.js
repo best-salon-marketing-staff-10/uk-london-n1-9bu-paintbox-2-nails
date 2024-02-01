@@ -25,14 +25,18 @@ export default function Offers(){
                             </div>
                             <div className="offers-content">
                                 <div>
+                                    {processedInfo.offerContent3}
+                                </div>
+                            <div className="offers-content-1">
+                                <div>
                                     {processedInfo.offerContent1}
                                 </div>
+                            </div>
+                            <div className="offers-content-1">
                                 <div>
                                     {processedInfo.offerContent2}
                                 </div>
-                                <div>
-                                    {processedInfo.offerContent3}
-                                </div>
+                            </div>    
                             </div>
                         </div>
                         

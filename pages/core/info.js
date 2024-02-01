@@ -95,11 +95,11 @@ const processedBusinessOpeningTime = {
 }
 
 
-const changedInfo = {    
+const changedInfo = {
   businessName: "Paintbox 2 Nails",
   businessAddressLevel1: "59 Caledonian Rd",
-  businessAddressLevel2: "London",
-  businessAddressLevel3: "Greater London",
+  businessAddressLevel2: "Islington ",
+  businessAddressLevel3: "London",
   businessAddressLevel4: "England",
   businessCountry: "United Kingdom",
   businessGeoRegionCode: "GB",
@@ -197,12 +197,12 @@ const seoInfo = {
   serviceKeyword4: "manicure",
   serviceKeyword5: "pedicure",
 
-  localKeyword1: changedInfo.businessAddressLevel2,
+  localKeyword1:  changedInfo.businessAddressLevel2,
   localKeyword2: changedInfo.businessAddressLevel3,
 }
 
 const seoKeyword = {
-  seoKeyword1: seoInfo.keyword1 + " " + seoInfo.localKeyword1,
+  seoKeyword1: seoInfo.keyword1 + " in " + seoInfo.localKeyword1,
   seoKeyword2: seoInfo.keyword1 + " " + seoInfo.localKeyword2,
 
   seoKeyword3: seoInfo.keyword2 + " " + seoInfo.localKeyword1,
@@ -343,13 +343,13 @@ const processedInfo = {
   offerTitle: "Our Offers and Benefits",
   offerDescription: "Free all cold drink and hot drink, chocolate, sweet or snack",
   offerHeading: "Our offers:",
-  offerContent1: "",
-  offerContent2: " ",
-  offerContent3: "✅From September 2023, on every Tuesday, group from 3 people get 10% with 1 main treatment or get 15% with 2 main treatments",
+  offerContent1: "1. Group from 3 people get 10% with 1 main treatment or get 15% with 2 main treatments.",
+  offerContent2: "2. Students get 10% discount (please show your ID & student ID card to get this offer). ",
+  offerContent3: "✅From September 2023, on every Tuesday and Thursday:",
 }
 
 const headerInput = {
-  headerTitle: "The best " + seoKeyword.seoKeyword1 + " - " + changedInfo.businessName,
+  headerTitle: "The best nail salon in Kings Cross || Islington || London" + " - " + changedInfo.businessName,
   metaDescription: "Best " + seoKeyword.seoKeyword1 + ". " + "Friendly staff and excellent service. Treat yourself or enjoy with friends and family",
   relIcon: changedInfo.icon,
   relCanonical: changedInfo.businessWebsite,
