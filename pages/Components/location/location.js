@@ -31,7 +31,7 @@ export default function Location(){
                             <br />
                             {changedInfo.businessPostCode}
                         </div>
-                        <Link href={processedInfo.callBusiness}>
+                        <Link href={processedInfo.callBusiness} legacyBehavior>
                             <div className="phone-tiem">
                                 {changedInfo.businessPhoneNumber}
                             </div>
