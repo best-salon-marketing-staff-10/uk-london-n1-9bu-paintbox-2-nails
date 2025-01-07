@@ -116,7 +116,7 @@ const changedInfo = {
   businessWebsite: "https://paintbox2nails.web.app",
 
   linkBookingMap: "",
-  linkBookingApp: "https://joybookings.com/paintbox2nails/booking",
+  linkBookingApp: "https://bit.ly/3W0vmbW",
   linkToMap: "https://goo.gl/maps/WvCkWBARHip88JKm8",
 
   
